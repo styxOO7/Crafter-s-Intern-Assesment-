@@ -8,7 +8,7 @@
 
 Sample CSV:
 </br>
-![Screenshot](https://raw.githubusercontent.com/styxOO7/Crafter-s-Intern-Assesment-/main/csv sample.png)
+![Screenshot](https://raw.githubusercontent.com/styxOO7/Crafter-s-Intern-Assesment-/main/csv%20sample.png)
 </br>
 
 Output:
